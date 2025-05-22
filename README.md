@@ -7,9 +7,8 @@ Un launcher para forzar el tema clásico de Opera GX cada vez que abras el naveg
 
 ## 📖 Tabla de Contenidos | Table of Contents
 
-- 🇪🇸 [Instrucciones en Español](#-instrucciones-en-español)
 - 🇬🇧 [Instructions in English](#-instructions-in-english)
-
+- 🇪🇸 [Instrucciones en Español](#-instrucciones-en-español)
 
 ## 🇬🇧 Instructions in English
 
