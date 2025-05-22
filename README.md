@@ -18,6 +18,7 @@ Un launcher para forzar el tema clásico de Opera GX cada vez que abras el naveg
 2. Copy the contents to any folder you prefer.
 3. Double-click `launcher.vbs` to launch Opera GX with the classic theme.
 4. (Optional) Create a shortcut to `launcher.vbs` and change its icon using Opera's original executable.
+5. (Optional) If you installed Opera in another folder, you can edit the file OperaGX_WithOldTheme.ps1 with a notepad and change the path $localAppPath = "$env:LOCALAPPDATA\Programs\Opera GX\opera.exe" for your path. To know your path you can check here: opera://about
 
 ### 📌 Technical Notes
 
@@ -36,6 +37,7 @@ This launcher:
 2. Copia el contenido donde desees mantener el lanzador.
 3. Haz doble clic en `launcher.vbs` para iniciar Opera GX con el tema clásico.
 4. (Opcional) Crea un acceso directo a `launcher.vbs` y cambia el ícono usando el original de OperaGX.
+5. (Opcional) Si tienes una instalación personalizada de Opera, puedes cambiar la ruta editando con un bloc de notas el archivo OperaGX_WithOldTheme.ps1, la ruta de tu instalación pudes verla aquí: opera://about
 
 ### 📌 Detalles Técnicos
 

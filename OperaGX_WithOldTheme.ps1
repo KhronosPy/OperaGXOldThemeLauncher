@@ -11,7 +11,7 @@ $content = $content -replace '"gxx_flags":\{.*?\}', '"gxx_flags":{"enabled":fals
 Set-Content -Path $localStatePath -Value $content -Encoding UTF8
 
 # Path to Opera GX executable (change it if u needed)
-$localAppPath = "$env:LOCALAPPDATA\Programs\Opera GX\opera.exe"
+$localAppPath = "$env:LOCALAPPDATA\Programs\Opera GX\opera.exe" #change the opera path here. Cambia la ruta a opera aquí.
 $programFilesPath = "C:\Program Files\Opera GX\opera.exe"
 
 if (Test-Path $localAppPath) {
