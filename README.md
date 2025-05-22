@@ -10,6 +10,23 @@ Un launcher para forzar el tema clásico de Opera GX cada vez que abras el naveg
 - 🇪🇸 [Instrucciones en Español](#-instrucciones-en-español)
 - 🇬🇧 [Instructions in English](#-instructions-in-english)
 
+
+## 🇬🇧 Instructions in English
+
+### 🛠️ Setup
+
+1. Clone or download this repository.
+2. Copy the contents to any folder you prefer.
+3. Double-click `launcher.vbs` to launch Opera GX with the classic theme.
+4. (Optional) Create a shortcut to `launcher.vbs` and change its icon using Opera's original executable.
+
+### 📌 Technical Notes
+
+This launcher:
+- Automatically modifies the `Local State` file to disable the new theme.
+- Launches Opera GX using the official executable.
+- Runs silently, so you shouldn't see any popup windows.
+
 ---
 
 ## 🇪🇸 Instrucciones en Español
@@ -27,24 +44,6 @@ Este lanzador:
 - Modifica automáticamente el archivo `Local State` para deshabilitar el nuevo tema.
 - Lanza Opera GX usando el ejecutable oficial.
 - Funciona de forma silenciosa, sin mostrar la consola.
-
----
-
-## 🇬🇧 Instructions in English
-
-### 🛠️ Setup
-
-1. Clone or download this repository.
-2. Copy the contents to any folder you prefer.
-3. Double-click `launcher.vbs` to launch Opera GX with the classic theme.
-4. (Optional) Create a shortcut to `launcher.vbs` and change its icon using Opera's original executable.
-
-### 📌 Technical Notes
-
-This launcher:
-- Automatically modifies the `Local State` file to disable the new theme.
-- Launches Opera GX using the official executable.
-- Runs silently, so you shouldn't see any popup windows.
 
 ---
 
